@@ -1,0 +1,28 @@
+body{
+
+    background-color: rgb(84, 236, 13);
+
+}
+
+.pri{
+    font-size: 24px;
+    color: blue;
+    font-weight: bold;
+
+}
+
+.seg{
+    font-size: 23px;
+    color: rgb(191, 23, 233);
+    font-weight: bold;
+}
+
+.ter{
+
+    font-size: 23px;
+    color: rgb(253, 77, 8);
+    font-weight: bold;
+
+
+
+}
